@@ -1,5 +1,6 @@
 # compilers-project
 ### CS327: Compilers Course Project
+A simple compiler for a subset of Pascal Language
 
 ## Features
 - While Loop
