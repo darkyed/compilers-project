@@ -13,7 +13,7 @@
 
 
 ## Instructions
-The main program is distributes across the files `tok.l`, `calc.y`, and `calc.h`
+The main program is distributed across the files `tok.l`, `calc.y`, and `calc.h`
 
 To compile the program you would require `flex` and `bison` to be installed on your machine, and to simulate the output assembly file you would need the `MARS Simulator`.
 
@@ -25,7 +25,7 @@ make
 ```
 This generates the file `a.out`.
 
-The tests are inside the directory `tests`. To run any of the tests, let's say `while_do.p` do as follows:
+The tests are inside the directory `tests`. To run any of the tests, let's say `while_do.p`, do as follows:
 
 ```
 ./a.out < ./tests/while_do.p
