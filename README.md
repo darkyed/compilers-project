@@ -26,7 +26,7 @@ make
 ```
 This generates the file `a.out`.
 
-The tests are inside the directory `tests`. To run any of the tests, let's say `while_do.p`, do as follows:
+The tests are inside the directory `tests`. To run any of the tests, let's say `while_do.pas`, do as follows:
 
 ```
 ./a.out < ./tests/while_do.p
